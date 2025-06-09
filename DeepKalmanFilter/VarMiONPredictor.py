@@ -6,7 +6,7 @@ E. Chinellato and F. Marcuzzi: State, parameters and hidden dynamics estimation 
 
 **SPDX-License-Identifier: GPL-3.0**  
 **Copyright (c) 2025 NLALDlab**  
-**Authors: Erik Chinellato, Fabio Marcuzzi**
+**Authors: Marco Dell'Orto**
 '''
 import numpy as np
 import torch
